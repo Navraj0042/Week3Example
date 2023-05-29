@@ -15,7 +15,8 @@ public class Week3 {
      */
     public static void main(String[] args) {
          System.out.println("learning gitub operations");
-            System.out.println("learning gitub operations");
+            System.out.println("learning gitub push operations");
+                System.out.println("learning gitub pull operations");
          
     }
     
