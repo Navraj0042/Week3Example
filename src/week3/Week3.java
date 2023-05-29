@@ -4,7 +4,7 @@
  */
 package week3;
 
-/**Local rep - steps 1. initialize versioning, .gitconfig, .gitignore commit
+/**Local rep - steps 1. initialize versioning, 2..gitconfig, 3..gitignore 4.commit 5. push to github
  *
  * @author garch
  */
@@ -14,7 +14,9 @@ public class Week3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         System.out.println("learning girub operations");
+         System.out.println("learning gitub operations");
+            System.out.println("learning gitub operations");
+         
     }
     
 }
